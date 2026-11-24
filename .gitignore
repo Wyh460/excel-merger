@@ -1,0 +1,12 @@
+# 运行产物，不提交
+测试数据/
+合并结果.xlsx
+*.xlsx
+*.xls
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
